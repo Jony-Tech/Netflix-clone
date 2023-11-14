@@ -116,6 +116,9 @@ button:hover, select:hover{
     gap: .8rem;
     align-items: center;
 }
+.form input{
+    color: #fff;
+}
 input, .form--button{
     height: 5.5rem;
     padding: 0 2.5rem;
